@@ -1,0 +1,128 @@
+{
+    "epochs5_lr0.0015_20241106_041214": {
+        "parameters": {
+            "num_epochs": 5,
+            "learning_rate": 0.0015
+        },
+        "best_accuracy": 92.75507068223725
+    },
+    "epochs5_lr0.001_20241106_041530": {
+        "parameters": {
+            "num_epochs": 5,
+            "learning_rate": 0.001
+        },
+        "best_accuracy": 92.25184388444991
+    },
+    "epochs5_lr0.0005_20241106_041848": {
+        "parameters": {
+            "num_epochs": 5,
+            "learning_rate": 0.0005
+        },
+        "best_accuracy": 92.5437922556853
+    },
+    "epochs10_lr0.0015_20241106_042201": {
+        "parameters": {
+            "num_epochs": 10,
+            "learning_rate": 0.0015
+        },
+        "best_accuracy": 93.92670559311617
+    },
+    "epochs10_lr0.001_20241106_042845": {
+        "parameters": {
+            "num_epochs": 10,
+            "learning_rate": 0.001
+        },
+        "best_accuracy": 94.30316533497235
+    },
+    "epochs10_lr0.0005_20241106_043542": {
+        "parameters": {
+            "num_epochs": 10,
+            "learning_rate": 0.0005
+        },
+        "best_accuracy": 93.54256299938537
+    },
+    "epochs15_lr0.0015_20241106_044225": {
+        "parameters": {
+            "num_epochs": 15,
+            "learning_rate": 0.0015
+        },
+        "best_accuracy": 94.30316533497235
+    },
+    "epochs15_lr0.001_20241106_045237": {
+        "parameters": {
+            "num_epochs": 15,
+            "learning_rate": 0.001
+        },
+        "best_accuracy": 94.55669944683467
+    },
+    "epochs15_lr0.0005_20241106_050251": {
+        "parameters": {
+            "num_epochs": 15,
+            "learning_rate": 0.0005
+        },
+        "best_accuracy": 94.40304240934235
+    },
+    "epochs20_lr0.0015_20241106_051311": {
+        "parameters": {
+            "num_epochs": 20,
+            "learning_rate": 0.0015
+        },
+        "best_accuracy": 94.83328211432084
+    },
+    "epochs20_lr0.001_20241106_052721": {
+        "parameters": {
+            "num_epochs": 20,
+            "learning_rate": 0.001
+        },
+        "best_accuracy": 94.70267363245236
+    },
+    "epochs20_lr0.0005_20241106_054141": {
+        "parameters": {
+            "num_epochs": 20,
+            "learning_rate": 0.0005
+        },
+        "best_accuracy": 94.83712354025815
+    },
+    "epochs25_lr0.0015_20241106_055607": {
+        "parameters": {
+            "num_epochs": 25,
+            "learning_rate": 0.0015
+        },
+        "best_accuracy": 95.17132759680393
+    },
+    "epochs25_lr0.001_20241106_061423": {
+        "parameters": {
+            "num_epochs": 25,
+            "learning_rate": 0.001
+        },
+        "best_accuracy": 95.159803318992
+    },
+    "epochs25_lr0.0005_20241106_063256": {
+        "parameters": {
+            "num_epochs": 25,
+            "learning_rate": 0.0005
+        },
+        "best_accuracy": 95.0061462814997
+    },
+    "epochs50_lr0.0015_20241106_065127": {
+        "parameters": {
+            "num_epochs": 50,
+            "learning_rate": 0.0015
+        },
+        "best_accuracy": 95.62077443146896
+    },
+    "epochs50_lr0.001_20241106_073400": {
+        "parameters": {
+            "num_epochs": 50,
+            "learning_rate": 0.001
+        },
+        "best_accuracy": 95.64766441303011
+    },
+    "epochs50_lr0.0005_20241106_081638": {
+        "parameters": {
+            "num_epochs": 50,
+            "learning_rate": 0.0005
+        },
+        "best_accuracy": 95.70912722802704
+    }
+}
